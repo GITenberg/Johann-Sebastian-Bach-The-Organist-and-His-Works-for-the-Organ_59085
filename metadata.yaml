@@ -1,5 +1,5 @@
 _repo: Johann-Sebastian-Bach-The-Organist-and-His-Works-for-the-Organ_59085
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Widor, Ch.-M. (Charles-Marie)
@@ -9,6 +9,9 @@ contributor:
     agent_name: Goodrich, Wallace
     gutenberg_agent_id: '50293'
     url: http://www.gutenberg.org/2009/agents/50293
+covers:
+- cover_type: archival
+  image_path: 59085-h/images/cover.jpg
 creator:
   author:
     agent_name: Pirro, André
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50291
     wikipedia: https://en.wikipedia.org/wiki/Andr%C3%A9_Pirro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59085#Johann-Sebastian-Bach-The-Organist-and-His-Works-for-the-Organ
 gutenberg_issued: '2019-03-18'
 gutenberg_type: Text
 identifiers:
